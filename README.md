@@ -21,3 +21,9 @@ The objective of this project is to conduct a comprehensive analysis of Adidas s
 
   
 ![image](https://github.com/anmolchoudhary2000/Adidas-Sales-Analysis/assets/154410998/a7a06ecf-7958-4835-98f1-6a31e8d86015)
+
+![image](https://github.com/anmolchoudhary2000/Adidas-Sales-Analysis/assets/154410998/b337b0df-255d-44b7-b056-e829dcd9c091)
+
+![image](https://github.com/anmolchoudhary2000/Adidas-Sales-Analysis/assets/154410998/6543228e-a8ea-4a64-b4fa-1a50bb895ff2)
+
+
