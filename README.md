@@ -17,4 +17,7 @@ The objective of this project is to conduct a comprehensive analysis of Adidas s
 - Profitability Analysis: Examining operating profit, margin breakdowns..
 - Customer Behavior: Studying purchasing patterns and segmenting customers based on behavior.
 
+
+
   
+![image](https://github.com/anmolchoudhary2000/Adidas-Sales-Analysis/assets/154410998/a7a06ecf-7958-4835-98f1-6a31e8d86015)
